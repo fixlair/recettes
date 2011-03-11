@@ -1,0 +1,6 @@
+h1. Recettes de cuisine
+
+Dépôt de recettes de cuisine.
+
+N'hésitez pas à forker, modifier !
+
