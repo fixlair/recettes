@@ -1,14 +1,14 @@
-Les crêpes
+h1. Les crêpes
 
-Ingrédients :
+h2. Ingrédients :
 
-500g de farine
-1L (ou un peu plus si trop épais) de lait
-3 oeufs
-1 cuillière à soupe de sucre
-Une pincée de sel
+* 500g de farine
+* 1L (ou un peu plus si trop épais) de lait
+* 3 oeufs
+* 1 cuillière à soupe de sucre
+* Une pincée de sel
 
-Comment faire :
+h2. Comment faire :
 
 Mettre la farine dans le saladier.
 Faire un puit au milieu.
